@@ -1,0 +1,106 @@
+
+{
+    "alvaro": [
+        {
+            "id": "0",
+            "data": "Un lolaso?" 
+        },
+        {
+            "id": "1",
+            "data": "me como lo que me propongo" 
+        },
+        {
+            "id": "2",
+            "data": "Soy main Ivern" 
+        },
+        {
+            "id": "3",
+            "data": "Como te la he levantado" 
+        }
+        
+    ],
+    "laura": [
+        {
+            "id": "0",
+            "data": "le corro" 
+        },
+        {
+            "id": "1",
+            "data": "me da cosa chillarle a palomo" 
+        },
+        {
+            "id": "2",
+            "data": "si es que laura no tiene frase" 
+        }
+
+        
+    ],
+    "juanma": [
+        {
+            "id": "0",
+            "data": "Yo nunca te pido nada" 
+        },
+        {
+            "id": "1",
+            "data": "Hay cosas que duelen" 
+        },
+        {
+            "id": "2",
+            "data": "palomo... por lo que sea" 
+        }
+        
+    ],
+    "paula": [
+        {
+            "id": "0",
+            "data": "en verdad me cabreo" 
+        },
+        {
+            "id": "1",
+            "data": "en verdad no estamos por las risas" 
+        },
+        {
+            "id": "2",
+            "data": "lo gordo es lo importante" 
+        },
+        {
+            "id": "3",
+            "data": "sin nosotros no seria posible, pero sin ella no tendria sentido" 
+        }
+        
+    ],
+    "elena": [
+        {
+            "id": "0",
+            "data": "tu opinion" 
+        },
+        {
+            "id": "1",
+            "data": "soy super inocente" 
+        },
+        {
+            "id": "2",
+            "data": "no soy una falsa" 
+        },
+        {
+            "id": "3",
+            "data": "en 20 minutos da tiempo a muchas cosas" 
+        }
+        
+    ],
+    "palomo": [
+        {
+            "id": "0",
+            "data": "una paja y se resetea" 
+        },
+        {
+            "id": "1",
+            "data": "soy chocolatito" 
+        },
+        {
+            "id": "2",
+            "data": "cuando la saqué, ya no tenia fuerzas" 
+        }
+        
+    ]
+}
