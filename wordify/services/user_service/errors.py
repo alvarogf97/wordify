@@ -1,0 +1,2 @@
+class UserServiceBackendError(Exception):
+    pass
